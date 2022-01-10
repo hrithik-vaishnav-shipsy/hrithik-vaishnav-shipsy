@@ -1,4 +1,4 @@
--#  Hi there 👋, I am Hrihtik Vaishnav!
+#  Hi there 👋, I am Hrihtik Vaishnav!
 
 <p align="center">
  <a href="https://www.linkedin.com/in/hrithik-vaishnav-6174271b9/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
