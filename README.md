@@ -26,10 +26,3 @@
 </p>
 
 
-
-[![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithik-vaishnav-shipsy&show_icons=true&theme=tokyonight)](https://github.com/hrithik-vaishnav-shipsy/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik-vaishnav-shipsy&layout=compact)](https://github.com/hrithik-vaishnav-shipsy/github-readme-stats)
-
